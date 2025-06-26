@@ -38,6 +38,7 @@ Quantization creates discrete, stable wave patterns
 This could be the foundation for revolutionary applications in signal processing, quantum computing, and wave-based data storage systems!
 
 ![SBSA Wave](https://github.com/user-attachments/assets/6d1e4a5f-4705-4e84-b58e-c16efd73bd30)
+![SBSA Wave 2](https://github.com/user-attachments/assets/71f42308-fb5b-4cf8-96ea-5e0cd040a220)
 
 
 
